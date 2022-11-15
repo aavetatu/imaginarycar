@@ -103,6 +103,13 @@ I went to the directory I had done the report in and copied it to the repository
 
 	$ cp hw3.md /home/tatu/imaginarycar/
 
+And made the commit 
+
+	$ git add .
+	$ git commit
+	$ git pull
+	$ git push
+
 I went to check from github.com if my commit was succesfully updated to github website
 
 
