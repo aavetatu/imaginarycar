@@ -1,4 +1,6 @@
-## b) make offline storage for git
+# Homework week 3
+
+### b) Make offline storage for git
 
 Before starting I had micro, bash-completion and ufw installed
 
@@ -49,7 +51,7 @@ And did a commit
 	+Hello World!
 
 
-### c) make a stupid change to git and undo it with git reset
+### c) Make a stupid change to git and undo it with git reset
 
 First I needed to make a mistake in git
 
@@ -112,5 +114,10 @@ And made the commit
 
 I went to check from github.com if my commit was succesfully updated to github website
 
+![image](https://user-images.githubusercontent.com/52470440/202026240-8338a6d7-ebdd-4bd2-92ab-0a5070090c9d.png)
 
-	
+### Sources:
+
+https://terokarvinen.com/2022/palvelinten-hallinta-2022p2/
+
+Screenshots which were taken on course lectures
